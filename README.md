@@ -51,35 +51,6 @@ where:
 
 ## 4. Particle Swarm Optimization (PSO) algorithm
 
-Regenerative braking energy is recovered according to a favorable braking sensation. The objective function is the average value of the energy in the frequency range from the zero frequency (0, $\omega_0$) of road information. In this design, a frequency of 40 Hz is selected. The first and second objective functions are expressed as follows:
-
-$f_2(\alpha) = E_{recovery}$
-
-The third objective function for braking efficiency can be written as:
-
-$f_3(\beta) = S_1 + S_2$
-
-The fourth objective function for adhesion coefficient can be modeled as:
-
-$f_4(\beta) = S_3 + S_4$
-
-Thus, the optimization model of the electro-hydraulic hybrid braking system is given as follows:
-
-$\max \left( f_2(\alpha), f_3(\beta) \right); \min f_4(\beta)$
-
-**and:**
-
-$\frac{b + z h_g}{L} \leq \beta \leq \frac{\left( z + 0.04 \right) \left( b + z h_g \right)}{0.7 z L} $
-
-**and:**
-
-$\frac{\left( z + 0.04 \right) \left( a - z h_g \right)}{0.7 z L} \leq \beta \geq 1$
-
-Where:
-
-- $0.15 \leq Z \leq 0.8$
-- $0.1 \leq Z \leq 0.52$
-
 ### Table 1. Main specifications of the motor
 
 | Specification                        | Value  |
