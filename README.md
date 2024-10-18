@@ -1,5 +1,4 @@
-# The_optimal_distribution_ratio_of_braking_force
-Apply the Particle Swarm Optimization (PSO) algorithm to optimize the parameters of the electro-hydraulic braking system.
+# Apply the Particle Swarm Optimization (PSO) algorithm to optimize the parameters of the electro-hydraulic braking system.
 ## 1. Brake energy recovery power
 The energy recovery power is proposed as a performance indicator to evaluate the energy recovery efficiency of the electro-hydraulic braking system. The equations describe the process of brake energy recovery in the form of electrical energy:
 
